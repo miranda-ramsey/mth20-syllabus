@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="materials" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Class Materials</title>
+  <subsection xml:id="subsec-textbook">
+    <title>Textbook</title>
+    <p>
+      For this class we will be using <pubtitle>Basic College Mathematics (Third Edition)</pubtitle>.
+    </p>
+    <p>
+    Purchase this book at the
+    <url href="https://bookstore.pcc.edu/store2/SelectTermDept.aspx" visual="bookstore.pcc.edu/store2/SelectTermDept.aspx">PCC book store.</url>
+    </p>  
+  </subsection>
+  <subsection xml:id="subsec-supplies">
+    <title>Supplies</title>
+    <ul>
+        <li>
+          <p>
+            Pencils and Erasers. Mistakes happen in math, and trying to correct mistakes made with an ink pen is challenging and creates messy work.
+          </p>
+        </li>
+        <li>
+          <p>
+            Graph Paper for notes and assignments. My favorite choice is <url href="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=1621016" visual="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=1621016">Engineering Paper</url>, 
+            which is constructed to have faint lines on the front for a clean appearance, but any <url href="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=1415029" visual = "https://bookstore.pcc.edu/store4/MerchDetail?MerchID=1415029">graph paper</url> will do.
+          </p>
+        </li>
+    </ul>
+  </subsection>
+  <subsection xml:id="subsec-technology">
+    <title>Technology</title>
+    <ul>
+      <li>
+        <p>
+          Regular access to <url href="https://online.pcc.edu" visual="https://online.pcc.edu">D2L</url> (Desire2Learn) will be required to access materials and submit assignments for this class. Please visit the technology support section of <url href="https://online.pcc.edu/shared/dl_template_8/student-resources/Student_Support_Resources.html" visual="https://online.pcc.edu/shared/dl_template_8/student-resources/Student_Support_Resources.html">Student Support Resources</url> for a complete list of apps and tools for PCC students.
+        </p>
+      </li>
+      <li>
+        <p>
+          A personal scientific calculator such as a <url href="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=887872" visual="https://bookstore.pcc.edu/store4/MerchDetail?MerchID=887872">TI-30XS</url> may be helpful for this class, but is not required.
+        </p>
+      </li>
+    </ul>
+  </subsection>
+</section>

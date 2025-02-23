@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="basic-needs" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Basic Needs Statement</title>
+
+  <p>
+    PCC wants you to be successful and have the resources that you need. If you need help with
+    food, housing, healthcare, or other resources, check out
+    <url
+      href="https://www.pcc.edu/student-life/single-stop/"
+      visual="www.pcc.edu/student-life/single-stop"
+      >these resources</url>.
+    You can also contact <email>conductandcare@pcc.edu</email> to connect with a person at PCC
+    who will help you find support.
+  </p>
+
+  <!-- include sections -->
+  <!--
+  <xi:include href="sec-section-name.ptx" />
+  -->
+</section>

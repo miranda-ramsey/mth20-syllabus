@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="instructor" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Instructor Information</title>
+  <subsection xml:id="subsec-contact">
+    <title>Contact</title>
+
+  <p>
+    To reach me or PCC:
+  </p>
+    <p>
+      <dl>
+        <li>
+          <title>Instructor</title>
+          <p>Miranda Ramsey</p>
+        </li>
+        <li>
+          <title>Office</title>
+          <p>SE SCOM 214</p>
+        </li>
+        <li>
+          <title>Phone</title>
+          <p>971-722-3542<fn>Voicemail only. Not a good way to reach me.</fn></p>
+        </li>
+        <li>
+          <title>Email</title>
+          <p><email>miranda.ramsey@pcc.edu</email></p>
+        </li>
+        <li>
+          <title>Address</title>
+          <p>
+          <line>Portland Community College</line>
+          <line>
+            Southeast Campus
+          </line>
+          <line>
+            12000 SW 49th Ave.
+          </line>
+          <line>
+            Portland, OR 97219
+          </line>
+          </p>
+        </li>
+      </dl>
+    </p>
+  <p>
+    Because of federal privacy laws, all email communications related to this class need to be sent
+    to and from your <c>@pcc.edu</c> email address, or using D2L's Classlist messaging tool.
+  </p>    
+  </subsection>
+
+  <subsection xml:id="subsec-my-schedule">
+    <title>My Schedule</title>
+    <tabular top="major" valign="top" left="major" bottom="minor">
+    <col/>
+    <col/>
+    <col/>
+    <col/>
+    <col right="major"/>
+    <col right="major"/>
+    <col right="major"/>
+    <row header="yes" bottom="medium">
+      <cell>Class</cell>
+      <cell>CRN</cell>
+      <cell>Days</cell>
+      <cell>Time</cell>
+      <cell>Place</cell>
+      <cell>Midterm</cell>
+      <cell>Final</cell>
+    </row>
+    <row>
+      <cell>MTH 111</cell>
+      <cell>20518</cell>
+      <cell>MW</cell>
+      <cell>9:00<ndash/>11:50</cell>
+      <cell>LIBR 216</cell>
+      <cell>Wed 4/30</cell>
+      <cell>Mon 6/9</cell>
+    </row>
+    <row bottom="major">
+      <cell>MTH 20</cell>
+      <cell>25135</cell>
+      <cell>MW</cell>
+      <cell>2:00<ndash/>4:20</cell>
+      <cell>SCOM 320</cell>
+      <cell>Wed 4/30</cell>
+      <cell>Wed 6/11</cell>
+    </row>
+  </tabular>
+  <p>
+    Exams are in class starting at the usual class time. For details, see
+    <xref ref="exams"/>. 
+  </p>
+
+  </subsection>
+  <subsection xml:id="subsec-office-hours">
+    <title>Office Hours</title>
+  <p>
+  I have scheduled office hours where you can come see me in person, or we can schedule a Zoom appointment as needed. I encourage 
+  you to come to office hours whenever you need additional help.
+  </p>
+  <tabular top="major" valign="top" left="major" bottom="minor">
+    <col/>
+    <col/>
+    <col right="major"/>
+    <row header="yes" bottom="minor" >
+      <cell>Day</cell>
+      <cell>Location</cell>
+      <cell>Time</cell>
+    </row>
+    <row>
+      <cell>
+        <line>Mondays</line>
+      </cell>
+      <cell>
+        <line>Student Learning Center</line>
+      </cell>
+      <cell>
+        <line>12:00<ndash/>1:30</line>
+      </cell>
+    </row>
+    <row>
+      <cell>
+        <line>Wednesdays</line>
+      </cell>
+      <cell>
+        <line>Student Learning Center</line>
+      </cell>
+      <cell>
+        <line>12:00<ndash/>1:30</line>
+      </cell>
+    </row>
+    <row bottom="major">
+      <cell>
+        <line>Fridays</line>
+      </cell>
+      <cell>
+        <line>Zoom</line>
+      </cell>
+      <cell>
+        <line>By Appointment</line>
+      </cell>
+    </row>
+  </tabular>
+  </subsection>
+  <subsection xml:id="subsec-approach">
+    <title>Instructional Approach</title>
+    <p>
+      Mathematics has an unfortunate reputation for being a challenging subject that only some people are capable of engaging with. I strongly believe that this is not true, and that more people are capable of mathematics than we give credit to. My goal is to facilitate creativity and discovery, rather than simply dictating facts and procedures to memorize. In my lectures I set out to establish a question that can ground us and give us context for the math we are working with, and through group work students will be encouraged to talk through problems, ask for help, and lift each other up. 
+    </p>
+  </subsection>
+
+</section>

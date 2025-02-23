@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="attendance" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Attendance</title>
+  <subsection xml:id="subsec-attendance-policy">
+    <title>Attendance Policy</title>
+    <p>
+      Attendance and participation are crucial to succeed in a math course. In this class, Group Work will be a large component, so students are expected to attend class and collaborate with each other. Credit for group work will not be given if students are absent or not participating.
+    </p>
+    <p>
+      However, I understand that perfect attendance is not a practical expectation. If you must miss class, please email me to let me know, and I will work with you to make sure you keep up and that your grade is minimally affected.
+    </p>
+  </subsection>
+  <subsection xml:id="subsec-first-week">
+    <title>First Week Activities</title>
+    <p>
+      During the first week of the term, instructors must identify students who are enrolled but not engaged in a class. These are referred to as "No Show" students and will be dropped from the class as per PCC's 
+      <url href="https://catalog.pcc.edu/handbook/g302-gradingguidelines-attendanceparticipationandnoshows/" visual="https://catalog.pcc.edu/handbook/g302-gradingguidelines-attendanceparticipationandnoshows/">G302 Grading Guidelines Policy.</url>
+    </p>
+    <p>
+      In order to avoid being dropped as a "No Show" student, you must complete the following activities by their deadlines:
+    </p>
+    
+  </subsection>
+</section>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="course-description" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Description</title>
+
+  <p>
+    Taken from the official PCC course description:
+    <dl>
+      <li>
+        <title>Course Number</title>
+        <p>MTH 20</p>
+      </li>
+      <li>
+        <title>Course Title</title>
+        <p>Fundamentals of Mathematics</p>
+      </li>
+      <li>
+        <title>Credit Hours</title>
+        <p>4</p>
+      </li>
+      <li>
+        <title>Lecture Hours</title>
+        <p>30</p>
+      </li>
+      <li>
+        <title>Lecture/Lab Hours</title>
+        <p>20</p>
+      </li>
+      <li>
+        <title>Prerequisites</title>
+        <p>
+          <line>ABE 0782 or placement into MTH 20</line>
+          <line>and</line>
+          <line>placement into RD 80 or ESOL 250.</line>
+        </p>
+      </li>
+    </dl>
+  </p>
+  <p>
+    Develops arithmetic fluency and the conceptual basis, and applications of integers, fractions, decimals, percents, and measurements. The PCC math department recommends that students take MTH 
+    courses in consecutive terms. Audit available.
+  </p>
+  <paragraphs>
+    <title>Learning Outcomes</title>
+    <p>
+      Upon completion of the course students should be able to:
+      <ol>
+        <li>
+          <p>
+            Perform accurate arithmetic computations in a variety of expressions and applications.
+          </p>
+        </li>
+        <li>
+          <p>
+            Apply mathematical problem solving strategies.
+          </p>
+        </li>
+        <li>
+          <p>
+            Effectively communicate mathematical reasoning.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </paragraphs>
+  <p>
+    The complete Course Content and Outcome Guide can be found at
+    <url href="https://www.pcc.edu/ccog/" visual="www.pcc.edu/ccog">www.pcc.edu/ccog/</url>.
+  </p>
+</section>

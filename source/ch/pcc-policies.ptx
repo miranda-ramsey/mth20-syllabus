@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="basic-needs" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Basic Needs Statement</title>
+<section xml:id="pcc-policies" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>PCC Policies</title>
 
   <introduction>
     <p> Text before the first section. </p>
@@ -11,4 +11,4 @@
   <!--
   <xi:include href="sec-section-name.ptx" />
   -->
-</chapter>
+</section>

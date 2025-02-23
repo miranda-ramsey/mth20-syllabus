@@ -4,7 +4,7 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="mth-20-syllabus">
+  <article xml:id="mth-20-syllabus">
     <title>Syllabus</title>
     <subtitle>MTH 20 Fundamentals of Mathematics</subtitle>
 
@@ -12,11 +12,25 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch/basic-needs.ptx" />
+    <xi:include href="./ch/course-description.ptx" />
+    <xi:include href="./ch/instructor.ptx" />
+    <xi:include href="./ch/materials.ptx" />
+    <xi:include href="./ch/accessibility.ptx" />
+    <xi:include href="./ch/weekly-structure.ptx" />
+    <xi:include href="./ch/attendance.ptx" />
+
+    <xi:include href="./ch/calendar.ptx" />
+    <xi:include href="./ch/communication.ptx" />
+    <xi:include href="./ch/exams.ptx" />
+    <xi:include href="./ch/grades.ptx" />
+    <xi:include href="./ch/ai-statement.ptx" />
+    <xi:include href="./ch/pcc-policies.ptx" />
+    <xi:include href="./ch/special-dates.ptx" />
 
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
-  </book>
+  </article>
 </pretext>
