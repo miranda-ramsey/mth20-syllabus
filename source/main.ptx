@@ -22,7 +22,6 @@
 
     <xi:include href="./ch/calendar.ptx" />
     <xi:include href="./ch/communication.ptx" />
-    <xi:include href="./ch/exams.ptx" />
     <xi:include href="./ch/grades.ptx" />
     <xi:include href="./ch/ai-statement.ptx" />
     <xi:include href="./ch/pcc-policies.ptx" />

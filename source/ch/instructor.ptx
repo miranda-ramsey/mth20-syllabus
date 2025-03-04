@@ -30,15 +30,9 @@
           <title>Address</title>
           <p>
           <line>Portland Community College</line>
-          <line>
-            Southeast Campus
-          </line>
-          <line>
-            12000 SW 49th Ave.
-          </line>
-          <line>
-            Portland, OR 97219
-          </line>
+          <line>Southeast Campus</line>
+          <line>12000 SW 49th Ave.</line>
+          <line>Portland, OR 97219</line>
           </p>
         </li>
       </dl>
@@ -89,7 +83,7 @@
   </tabular>
   <p>
     Exams are in class starting at the usual class time. For details, see
-    <xref ref="exams"/>. 
+    <xref ref="subsec-exams"/>. 
   </p>
 
   </subsection>
@@ -116,7 +110,7 @@
         <line>Student Learning Center</line>
       </cell>
       <cell>
-        <line>12:00<ndash/>1:30</line>
+        <line>12:00<ndash/>1:00</line>
       </cell>
     </row>
     <row>
@@ -127,7 +121,7 @@
         <line>Student Learning Center</line>
       </cell>
       <cell>
-        <line>12:00<ndash/>1:30</line>
+        <line>12:00<ndash/>1:00</line>
       </cell>
     </row>
     <row bottom="major">

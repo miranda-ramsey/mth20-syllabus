@@ -15,9 +15,11 @@
       <today />
     </date>
 
+    <!--
     <website>
       <url href="https://pretextbook.org">My Website</url>
     </website>
+    -->
 
     <copyright>
       <year>2024<ndash />2025</year>

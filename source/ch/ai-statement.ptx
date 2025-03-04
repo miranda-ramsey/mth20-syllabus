@@ -3,9 +3,16 @@
 <section xml:id="ai-statement" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>AI Statement</title>
 
-  <introduction>
-    <p> Text before the first section. </p>
-  </introduction>
+  <p>
+    The use of generative AI in this course such as, but not limited to ChatGPT, should be used only if it does not otherwise 
+    violate the Academic Integrity Policy of the College. Such violations include turning in work that is not your own.
+  </p>
+  <p>
+    In this class specifically, while generative AI and language learning models can be excellent tools for summarizing and 
+    presenting information, leaning on such tools when you are yourself trying to learn something, even in ways that seem to 
+    be academically honest, can instill a dependency that is really challenging to let go of later. <alert>I highly recommend avoiding 
+    the use of tools like ChatGPT, even as a study assistant!</alert> Please ask me for help instead. 
+  </p>
 
   <!-- include sections -->
   <!--
