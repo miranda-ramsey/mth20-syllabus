@@ -16,16 +16,11 @@
     <xi:include href="./ch/course-description.ptx" />
     <xi:include href="./ch/instructor.ptx" />
     <xi:include href="./ch/materials.ptx" />
-    <xi:include href="./ch/accessibility.ptx" />
-    <xi:include href="./ch/weekly-structure.ptx" />
     <xi:include href="./ch/attendance.ptx" />
-
-    <xi:include href="./ch/calendar.ptx" />
-    <xi:include href="./ch/communication.ptx" />
     <xi:include href="./ch/grades.ptx" />
-    <xi:include href="./ch/ai-statement.ptx" />
-    <xi:include href="./ch/pcc-policies.ptx" />
-    <xi:include href="./ch/special-dates.ptx" />
+    <xi:include href="./ch/policies.ptx" />
+    <xi:include href="./ch/accessibility.ptx" />
+    <xi:include href="./ch/calendar.ptx" />
 
 
     <!-- Include backmatter -->

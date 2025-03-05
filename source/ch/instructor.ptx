@@ -36,57 +36,31 @@
           </p>
         </li>
       </dl>
+    </p>  
+  </subsection>
+
+  <subsection xml:id="communication">
+  <title>Communication</title>
+    <p>
+      I highly encourage you to exchange information with your peers, 
+      especially those you are working with in groups, to work together outside
+      of class. Email, group chats, and Discord servers are all excellent ways
+      to connect and collaborate.
     </p>
-  <p>
-    Because of federal privacy laws, all email communications related to this class need to be sent
-    to and from your <c>@pcc.edu</c> email address, or using D2L's Classlist messaging tool.
-  </p>    
+    <p>
+      The best way to contact me is through email. I check my email often! 
+      please email me at <email>miranda.ramsey@pcc.edu</email>. Due to federal 
+      privacy laws, <alert>We must use your PCC email address to communicate,</alert> 
+      so make sure you are contacting me from your PCC email address or the D2L 
+      Classlist feature, and checking your PCC email regularly for my replies.
+    </p>
+    <p>
+      Emails sent on weekdays will be answered within 24 hours. Emails sent
+      over a weekend or holiday will be answered the following scheduled school
+      day.
+    </p>
   </subsection>
 
-  <subsection xml:id="subsec-my-schedule">
-    <title>My Schedule</title>
-    <tabular top="major" valign="top" left="major" bottom="minor">
-    <col/>
-    <col/>
-    <col/>
-    <col/>
-    <col right="major"/>
-    <col right="major"/>
-    <col right="major"/>
-    <row header="yes" bottom="medium">
-      <cell>Class</cell>
-      <cell>CRN</cell>
-      <cell>Days</cell>
-      <cell>Time</cell>
-      <cell>Place</cell>
-      <cell>Midterm</cell>
-      <cell>Final</cell>
-    </row>
-    <row>
-      <cell>MTH 111</cell>
-      <cell>20518</cell>
-      <cell>MW</cell>
-      <cell>9:00<ndash/>11:50</cell>
-      <cell>LIBR 216</cell>
-      <cell>Wed 4/30</cell>
-      <cell>Mon 6/9</cell>
-    </row>
-    <row bottom="major">
-      <cell>MTH 20</cell>
-      <cell>25135</cell>
-      <cell>MW</cell>
-      <cell>2:00<ndash/>4:20</cell>
-      <cell>SCOM 320</cell>
-      <cell>Wed 4/30</cell>
-      <cell>Wed 6/11</cell>
-    </row>
-  </tabular>
-  <p>
-    Exams are in class starting at the usual class time. For details, see
-    <xref ref="subsec-exams"/>. 
-  </p>
-
-  </subsection>
   <subsection xml:id="subsec-office-hours">
     <title>Office Hours</title>
   <p>
@@ -139,9 +113,82 @@
   </subsection>
   <subsection xml:id="subsec-approach">
     <title>Instructional Approach</title>
-    <p>
+    <introduction>
+      <p>
       Mathematics has an unfortunate reputation for being a challenging subject that only some people are capable of engaging with. I strongly believe that this is not true, and that more people are capable of mathematics than we give credit to. My goal is to facilitate creativity and discovery, rather than simply dictating facts and procedures to memorize. In my lectures I set out to establish a question that can ground us and give us context for the math we are working with, and through group work students will be encouraged to talk through problems, ask for help, and lift each other up. 
-    </p>
+      </p>
+    </introduction>
+<subsubsection xml:id="subsec-weekly-structure">
+  <title>Weekly Structure</title>
+  <p>
+    To perform best in the class, each week you should:
+    <dl>
+      <li>
+        <title>Read Ahead</title>
+        <p>
+          Read the textbook material ahead of the days we will be covering it in class, so that you can ask questions and get clarification during lectures and group work.
+        </p>
+      </li>
+      <li>
+        <title>Do Homework As We Go</title>
+        <p>
+          Work on the homework throughout the week, rather than waiting until the end of the week. This way, challenging problems can be brought up in class with me or with your group.
+        </p>
+      </li>
+      <li>
+        <title>Come to Office Hours</title>
+        <p>
+          Visit me in Office Hours to fill in gaps in your understanding, before they become stressful issues.
+        </p>
+      </li>
+    </dl>
+  </p>
+  </subsubsection>
+  </subsection>
+
+  <subsection xml:id="subsec-my-schedule">
+    <title>My Schedule</title>
+    <tabular top="major" valign="top" left="major" bottom="minor">
+    <col/>
+    <col/>
+    <col/>
+    <col/>
+    <col right="major"/>
+    <col right="major"/>
+    <col right="major"/>
+    <row header="yes" bottom="medium">
+      <cell>Class</cell>
+      <cell>CRN</cell>
+      <cell>Days</cell>
+      <cell>Time</cell>
+      <cell>Place</cell>
+      <cell>Midterm</cell>
+      <cell>Final</cell>
+    </row>
+    <row>
+      <cell>MTH 111</cell>
+      <cell>20518</cell>
+      <cell>MW</cell>
+      <cell>9:00<ndash/>11:50</cell>
+      <cell>LIBR 216</cell>
+      <cell>Wed 4/30</cell>
+      <cell>Mon 6/9</cell>
+    </row>
+    <row bottom="major">
+      <cell>MTH 20</cell>
+      <cell>25135</cell>
+      <cell>MW</cell>
+      <cell>2:00<ndash/>4:20</cell>
+      <cell>SCOM 320</cell>
+      <cell>Wed 4/30</cell>
+      <cell>Wed 6/11</cell>
+    </row>
+  </tabular>
+  <p>
+    Exams are in class starting at the usual class time. For details, see
+    <xref ref="subsec-exams"/>. 
+  </p>
+
   </subsection>
 
 </section>
