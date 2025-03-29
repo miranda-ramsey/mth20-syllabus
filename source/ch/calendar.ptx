@@ -19,13 +19,13 @@
     </row>
     <row bottom="minor">
       <cell>3/31-4/6</cell>
-      <cell>Whole Number Arithmetic</cell>
+	  <cell>Whole Numbers</cell>
       <cell>Signed Numbers</cell>
       <cell>
         <line>Intro Form</line>
         <line>(see <xref ref="subsec-first-week"/>)</line>
         <line>Prob. Set 1 (due 4/7)</line>
-        <line>Activity 1,2</line>
+		<line>ALEKS Homework 1 (due 4/4)</line>
       </cell>
     </row>
     <row bottom="minor">      
@@ -34,7 +34,7 @@
       <cell>Factoring</cell>
       <cell>
         <line>Prob. Set 2 (due 4/14)</line>
-        <line>Activity 3,4</line>
+		<line>ALEKS Homework 2 (due 4/11)</line>
       </cell>
     </row>
     <row bottom="minor">      
@@ -43,21 +43,23 @@
       <cell>Fraction Multiplication</cell>
       <cell>
         <line>Prob. Set 3 (due 4/21)</line>
-        <line>Activity 5,6</line>
+		<line>ALEKS Homework 3 (due 4/18)</line>
       </cell>
     </row>
     <row bottom="minor">      
       <cell>4/21-4/27</cell>
       <cell>Fraction Simplification</cell>
       <cell>Fraction Addition</cell>
-      <cell>Activity 7,8</cell>
+	  <cell>
+		  <line>Prob. Set 4 (due 4/28)</line>
+		  <line>ALEKS Homework 4 (due 4/25)</line>
+	  </cell>
     </row>
     <row bottom="minor">
       <cell>4/28-5/4</cell>
       <cell>Catch Up and Review</cell>
       <cell><em>Midterm Exam</em></cell>
       <cell>
-        <line>Activity 9</line>
         <line>Self-Assessment 1</line>
       </cell>
     </row>
@@ -66,8 +68,8 @@
       <cell>Decimals</cell>
       <cell>Decimal Addition</cell>
       <cell>
-        <line>Prob. Set 4 (due 5/12)</line>
-        <line>Activity 10,11</line>
+        <line>Prob. Set 5 (due 5/12)</line>
+		<line>ALEKS Homework 5 (due 5/9</line>
       </cell>
     </row>
     <row bottom="minor">
@@ -75,8 +77,8 @@
       <cell>Decimal Multiplication</cell>
       <cell>Decimal Division</cell>
       <cell>
-        <line>Prob. Set 5 (due 5/21)</line>
-        <line>Activity 12,13</line>
+        <line>Prob. Set 6 (due 5/21)</line>
+		<line>ALEKS Homework 6 (due 5/16)</line>
       </cell>
     </row>
     <row bottom="minor">
@@ -87,8 +89,8 @@
       </cell>
       <cell>Ratios/Proportions</cell>
       <cell>
-        <line>Prob. Set 6 (due 5/26)</line>
-        <line>Activity 14</line>
+        <line>Prob. Set 7 (due 5/26)</line>
+		<line>ALEKS Homework 7 (due 5/23)</line>
       </cell>
     </row>
     <row bottom="minor">
@@ -97,7 +99,7 @@
       <cell>Percentages</cell>
       <cell>
         <line>Prob. Set 7 (due 6/2)</line>
-        <line>Activity 15,16</line>
+		<line>ALEKS Homework 8 (due 5/30)</line>
       </cell>
     </row>
     <row bottom="minor">
@@ -105,7 +107,7 @@
       <cell>Probability</cell>
       <cell>Catch Up</cell>
       <cell>
-        <line>Activity 17,18</line>
+		  <line>ALEKS Homework 9 (due 6/6)</line>
       </cell>
     </row>
     <row>

@@ -15,14 +15,19 @@
         <cell>Weight</cell>
       </row>
       <row>
-        <cell>Homework Sets</cell>
+        <cell>Paper Homework</cell>
         <cell>7</cell>
         <cell>20%</cell>
       </row>
       <row>
+        <cell>ALEKS Homework</cell>
+        <cell>7</cell>
+        <cell>10%</cell>
+      </row>
+      <row>
         <cell>Workbook Activities</cell>
         <cell>18</cell>
-        <cell>20%</cell>
+        <cell>10%</cell>
       </row>
       <row>
         <cell>Quizzes</cell>
@@ -47,21 +52,25 @@
     <p>
       <dl>
       <li>
-        <title>Homework Sets</title>
+        <title>Paper Homework</title>
         <p>
-          Each week you will have a set of homework problems to complete and submit on your own. 
+			Most weeks you will have a set of homework problems, mostly taken from the textbook, to complete and submit on your own. 
+			Paper homework will be due in class on the following Monday.
+        </p>
+      </li>
+      <li>
+        <title>ALEKS Homework</title>
+        <p>
+			Most weeks you will have a set of homework problems assigned on ALEKS. These assignments are due Fridays at midnight.
         </p>
       </li>
       <li>
         <title>Workbook Activities</title>
         <p>
-          For each class session there is an associated workbook activity. For 
-          most activities, there is a prep-work portion, a group-work portion, 
-          and a post-work reflection portion. It is your responsibility to 
-          arrive to class with the prep work completed so that you can fully
-          participate with your group. The workbook will be turned in with a 
-          self assessment before each Exam.
-        </p>
+			For each class session there is an associated workbook activity. The workbook will be graded based on self-assessments
+			submitted before the Midterm and the Final. The workbook comes in an <url href="https://miranda-ramsey.github.io/mth20-workbook/">HTML Format</url> 
+			and PDFs will be posted on D2L. It is your responsibility to bring the workbook activities to class, either printed out or in a digital format.
+		</p>
       </li>
       <li>
         <title>Quizzes</title>
